@@ -893,7 +893,7 @@ a:hover, a:focus, a:active { color: #de6288; }
 .io-zinnia .tab-custom-s3 .nav-tabs .nav-link:before { background: linear-gradient(-45deg, #EDBC04 0%, #EDBC04 100%); }
 .io-zinnia .tab-custom-s3 .nav-tabs .nav-link.active { color: #fff; background: transparent; }
 .io-zinnia .accordion-s2 .card { background-color: #fff; border-color: rgba(34, 59, 85, 0.15); }
-.io-zinnia .accordion-s2 .card.active { border-color: rgba(254, 67, 80, 0.5); }
+.io-zinnia .accordion-s2 .card.active { border-color: #EDBC04; }
 .io-zinnia .accordion-s2 .card-header a { color: #EDBC04; }
 .io-zinnia .accordion-s2 .card-header a.collapsed { color: #4c5a77; }
 .io-zinnia .accordion-s2 .card-header a:hover { color: #EDBC04; }
